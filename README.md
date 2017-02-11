@@ -1,3 +1,6 @@
+I AM WORKING ON THIS AND TY TO FIND A WAY HOW TO CHANGE THE DATA IN MINE
+
+
 Litecoin Core integration/staging tree
 =====================================
 
